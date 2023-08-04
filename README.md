@@ -26,7 +26,7 @@ Create a new Vue component.
 
 #### Example
 
-`node vcr.js create-component src/components MyComponent`
+`node vcr.js create components src/components MyComponent`
 
 
 ### Delete Component
