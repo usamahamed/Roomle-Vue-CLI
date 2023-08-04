@@ -20,7 +20,9 @@ To use VCR, run the `node vcr.js` command followed by the desired command and op
 
 Create a new Vue component.
 
-`node vcr.js create-component <path> <componentName>`
+`node vcr.js create components <path> <componentName>`
+
+`node vcr.js create c <path> <componentName>`
 
 #### Example
 
