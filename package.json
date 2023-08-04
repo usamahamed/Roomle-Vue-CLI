@@ -4,6 +4,7 @@
   "description": "A CLI tool for VueJS framework",
   "main": "vcr.js",
   "type": "module",
+  "bin": "vcr.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
