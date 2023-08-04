@@ -41,7 +41,7 @@ Delete an existing Vue component.
 
 #### Example
 
-`node vcr.js delete-component src/components MyComponent`
+`node vcr.js delete components src/components MyComponent`
 
 ### Generate Store
 
