@@ -35,7 +35,8 @@ Delete an existing Vue component.
 
 #### Usage
 
-`node vcr.js delete-component <path> <componentName>`
+`node vcr.js delete components <path> <componentName>`
+`node vcr.js delete c <path> <componentName>`
 
 
 #### Example
